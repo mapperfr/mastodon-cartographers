@@ -1,12 +1,14 @@
 account,name,link,keywords,language
 @alan@subdued.social,Alan McConchie,https://subdued.social/@alan,dataviz open_source openstreetmap,en_us
 @loximuthal@dmv.community,Andy McIntire,https://dmv.community/@loximuthal,census,en
-@barneyharris@sciences.social,Barney Harris,https://sciences.social/@barneyharris,archaeology lidar mobility,en 
+@barneyharris@sciences.social,Barney Harris,https://sciences.social/@barneyharris,archaeology lidar mobility,en
+@christoph@christophfink.com,Christoph Fink,https://mastodon.christophfink.com/@christoph,critical_cartography mobility construction_of_space,de en es fi
 @daveparr@mastodon.social,David Parr,https://mastodon.social/@daveparr,GIS Spatial_Data_Science,en
 @dmontagne@mapstodon.space,DMontagne,https://mapstodon.space/@dmontagne,OpenStreetMap JOSM QGIS,fr
 @floledermann@mapstodon.space,Florian Ledermann,https://mapstodon.space/@floledermann,cartography urban_viz geovisualization,en de
 @jeremy@mapstodon.space,Jérémy Garniaux,https://mapstodon.space/@jeremy,QGIS Inkscape,fr en es
 @llongour@mapstodon.space,Lucas Longour,https://mapstodon.space/@llongour,openstreetmap rspatial remote_sensing,fr en
-@mapmeld@mapstodon.space,Nick Doiron,https://mapstodon.space/@mapmeld,en es,
-@twm@mastodon.sdf.org,Timothy Monteath,https://mastodon.sdf.org/@twm,en,
+@mapmeld@mapstodon.space,Nick Doiron,https://mapstodon.space/@mapmeld,,en es
+@NikaShilobod@fediscience.org,Nika Shilobod,https://fediscience.org/@NikaShilobod,environmental_archaeology geoarchaeology landscapes,en
+@twm@mastodon.sdf.org,Timothy Monteath,https://mastodon.sdf.org/@twm,,en
 @tomo@hachyderm.io,Tomislav Bacinger,https://hachyderm.io/@tomo,blender qgis dataviz,en
